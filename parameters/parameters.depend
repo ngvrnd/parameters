@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1501794730 source:/opt/localhome/ncaruso/projects/parameters/main.cpp
+	<istream>
+	<iostream>
+	"Parameter.h"
+
+1501878409 /opt/localhome/ncaruso/projects/parameters/include/Parameter.h
+	<map>
+
